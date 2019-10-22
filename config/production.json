@@ -1,5 +1,5 @@
 {
-  "mongoURI": "mongodb://lula:lula0369@devconnector-shard-00-00-1j36m.mongodb.net:27017,devconnector-shard-00-01-1j36m.mongodb.net:27017,devconnector-shard-00-02-1j36m.mongodb.net:27017/test?ssl=true&replicaSet=DevConnector-shard-0&authSource=admin&retryWrites=true&w=majority",
+  "mongoURI": "mongodb+srv://lula:lula0369@devconnector-1j36m.mongodb.net/test?retryWrites=true&w=majority",
   "jwtSecret": "mysecrettoken",
   "githubClientId": "d430a1e3356da725a42d",
   "githubSecret": "8e7f27f59d3e669ee51ea775933a85a290b9dbc7"
